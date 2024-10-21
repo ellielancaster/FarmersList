@@ -1,6 +1,10 @@
 // Import Classes Here
 
-
+// Import Classes Here
+require("./classes/Product.js").default
+require("./classes/Cart.js").default
+require("./classes/Auth.js").default
+require("./classes/Customer.js").default
 
 
 
